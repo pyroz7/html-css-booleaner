@@ -1,6 +1,9 @@
 header {
     background-color: rgb(93, 166, 255);
+    height: 100px;
+    background-repeat: repeat;
 }
+
 
 
  table, th, td{
